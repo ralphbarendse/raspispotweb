@@ -1,6 +1,6 @@
 # Spotweb Installation Script
 
-Simple script to install Spotweb on any Debian-based system (including Synology DSM).
+Simple script to install Spotweb on a Debian-based system. This script runs through a SSH connection so you do it from the comfort of your personal Unix-machine (Mac, Linux or Windows).
 
 ## How to use
 
