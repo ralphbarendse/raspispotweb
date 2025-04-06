@@ -6,7 +6,7 @@ Simple script to install Spotweb on a Debian-based system. This script runs thro
 
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/ralphbarendse/spotweb-installer/main/install_spotweb.sh
+wget https://raw.githubusercontent.com/ralphbarendse/raspispotweb/main/install_spotweb.sh
 chmod +x install_spotweb.sh
 ```
 
