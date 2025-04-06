@@ -1,6 +1,6 @@
 # Spotweb Installation Script
 
-Simple script to install Spotweb on a Debian-based system. This script runs through a SSH connection so you can do it from the comfort of your personal Unix-machine (Mac, Linux or Windows).
+Simple script to install Spotweb on a Debian-based system, like for instance a Raspberry Pi. This script runs through a SSH connection so you can do it from the comfort of your personal Unix-machine (Mac, Linux or Windows).
 
 ## How to use
 
